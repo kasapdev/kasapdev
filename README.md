@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=kasapdev&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Building+premium+tools+with+Vanilla+JS&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
@@ -22,30 +22,30 @@
 
 ---
 
-## 🛠️ Web Utility Suite
+## ğŸ› ï¸ Web Utility Suite
 
-> **8 production-grade web tools** — premium UI, zero dependencies, works offline.
+> **8 production-grade web tools** â€” premium UI, zero dependencies, works offline.
 
 <div align="center">
 
 | Tool | Description | Live |
 |------|-------------|------|
-| 🔐 [Password Generator Pro](https://github.com/kasapdev/password-generator-pro) | Cryptographic passwords with entropy analysis | [▶ Demo](https://kasapdev.github.io/password-generator-pro) |
-| 📱 [QR Generator Pro](https://github.com/kasapdev/qr-generator-pro) | QR codes for URL, WiFi, email, SMS — PNG & SVG | [▶ Demo](https://kasapdev.github.io/qr-generator-pro) |
-| 🔧 [JSON Formatter Pro](https://github.com/kasapdev/json-formatter-pro) | Beautify, minify & validate JSON with highlights | [▶ Demo](https://kasapdev.github.io/json-formatter-pro) |
-| 💬 [Discord Embed Builder Pro](https://github.com/kasapdev/discord-embed-builder-pro) | Visual Discord embed designer + webhook JSON | [▶ Demo](https://kasapdev.github.io/discord-embed-builder-pro) |
-| 🎨 [Color Palette Generator Pro](https://github.com/kasapdev/color-palette-generator-pro) | HEX / RGB / HSL palettes with harmony modes | [▶ Demo](https://kasapdev.github.io/color-palette-generator-pro) |
-| ⏱️ [Pomodoro Timer Pro](https://github.com/kasapdev/pomodoro-timer-pro) | Focus timer with SVG ring, streak & stats | [▶ Demo](https://kasapdev.github.io/pomodoro-timer-pro) |
-| 📝 [Markdown Notepad Pro](https://github.com/kasapdev/markdown-notepad-pro) | Live markdown editor with multi-note manager | [▶ Demo](https://kasapdev.github.io/markdown-notepad-pro) |
-| 🎮 [FiveM Command Builder Pro](https://github.com/kasapdev/fivem-command-builder-pro) | Generate Native / QBCore / ESX Lua commands | [▶ Demo](https://kasapdev.github.io/fivem-command-builder-pro) |
+| ğŸ” [Password Generator Pro](https://github.com/kasapdev/password-generator-pro) | Cryptographic passwords with entropy analysis | [â–¶ Demo](https://kasapdev.github.io/password-generator-pro) |
+| ğŸ“± [QR Generator Pro](https://github.com/kasapdev/qr-generator-pro) | QR codes for URL, WiFi, email, SMS â€” PNG & SVG | [â–¶ Demo](https://kasapdev.github.io/qr-generator-pro) |
+| ğŸ”§ [JSON Formatter Pro](https://github.com/kasapdev/json-formatter-pro) | Beautify, minify & validate JSON with highlights | [â–¶ Demo](https://kasapdev.github.io/json-formatter-pro) |
+| ğŸ’¬ [Discord Embed Builder Pro](https://github.com/kasapdev/discord-embed-builder-pro) | Visual Discord embed designer + webhook JSON | [â–¶ Demo](https://kasapdev.github.io/discord-embed-builder-pro) |
+| ğŸ¨ [Color Palette Generator Pro](https://github.com/kasapdev/color-palette-generator-pro) | HEX / RGB / HSL palettes with harmony modes | [â–¶ Demo](https://kasapdev.github.io/color-palette-generator-pro) |
+| â±ï¸ [Pomodoro Timer Pro](https://github.com/kasapdev/pomodoro-timer-pro) | Focus timer with SVG ring, streak & stats | [â–¶ Demo](https://kasapdev.github.io/pomodoro-timer-pro) |
+| ğŸ“ [Markdown Notepad Pro](https://github.com/kasapdev/markdown-notepad-pro) | Live markdown editor with multi-note manager | [â–¶ Demo](https://kasapdev.github.io/markdown-notepad-pro) |
+| ğŸ® [FiveM Command Builder Pro](https://github.com/kasapdev/fivem-command-builder-pro) | Generate Native / QBCore / ESX Lua commands | [â–¶ Demo](https://kasapdev.github.io/fivem-command-builder-pro) |
 
 </div>
 
-> 📦 Full monorepo: **[kasapdev/web-utility-suite](https://github.com/kasapdev/web-utility-suite)**
+> ğŸ“¦ Full monorepo: **[kasapdev/web-utility-suite](https://github.com/kasapdev/web-utility-suite)**
 
 ---
 
-## 💻 Tech Stack
+## ğŸ’» Tech Stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ğŸ“Š GitHub Stats
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## ğŸ† GitHub Trophies
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## ğŸ“ˆ Contribution Graph
 
 <div align="center">
 
@@ -101,14 +101,15 @@
 
 <div align="center">
 
-### 💡 Philosophy
+### ğŸ’¡ Philosophy
 
 *"The best tool is the one that gets out of your way."*
 
-**Zero frameworks · Zero dependencies · Zero compromise**
+**Zero frameworks Â· Zero dependencies Â· Zero compromise**
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
 
 </div>
+<!-- updated -->
