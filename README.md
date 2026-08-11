@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Front-End+Developer;Open+Source+Enthusiast;Vanilla+JS+Craftsman;Building+tools+people+actually+use)](https://git.io/typing-svg)
 
-### [🌐 Visit my portfolio → kasapdev.github.io](https://kasapdev.github.io)
+### [Visit my portfolio -> kasapdev.github.io](https://kasapdev.github.io)
 
 </div>
 
@@ -22,32 +22,74 @@
 
 </div>
 
----
-
-## Featured Projects — 12 Production Tools
-
-> Every project is **standalone, dependency-free, and runs 100% offline.** Built with pure HTML, CSS & Vanilla JS.
-
 <div align="center">
 
-| Tool | What it does | Live |
-|------|--------------|------|
-| **Password Generator Pro** | Cryptographic passwords with live entropy analysis | [Demo](https://kasapdev.github.io/password-generator-pro) · [Code](https://github.com/kasapdev/password-generator-pro) |
-| **QR Generator Pro** | QR codes for URL, WiFi, email & SMS — PNG & SVG | [Demo](https://kasapdev.github.io/qr-generator-pro) · [Code](https://github.com/kasapdev/qr-generator-pro) |
-| **JSON Formatter Pro** | Beautify, minify & validate JSON with highlighting | [Demo](https://kasapdev.github.io/json-formatter-pro) · [Code](https://github.com/kasapdev/json-formatter-pro) |
-| **Discord Embed Builder Pro** | Visual Discord embed designer + webhook JSON | [Demo](https://kasapdev.github.io/discord-embed-builder-pro) · [Code](https://github.com/kasapdev/discord-embed-builder-pro) |
-| **Color Palette Generator Pro** | HEX / RGB / HSL palettes with harmony modes | [Demo](https://kasapdev.github.io/color-palette-generator-pro) · [Code](https://github.com/kasapdev/color-palette-generator-pro) |
-| **Pomodoro Timer Pro** | Focus timer with SVG ring, streaks & stats | [Demo](https://kasapdev.github.io/pomodoro-timer-pro) · [Code](https://github.com/kasapdev/pomodoro-timer-pro) |
-| **Markdown Notepad Pro** | Live markdown editor with multi-note manager | [Demo](https://kasapdev.github.io/markdown-notepad-pro) · [Code](https://github.com/kasapdev/markdown-notepad-pro) |
-| **FiveM Command Builder Pro** | Generate Native / QBCore / ESX Lua commands | [Demo](https://kasapdev.github.io/fivem-command-builder-pro) · [Code](https://github.com/kasapdev/fivem-command-builder-pro) |
-| **Maintenance Page Pro** | Design & export "under maintenance" pages | [Demo](https://kasapdev.github.io/maintenance-page-pro) · [Code](https://github.com/kasapdev/maintenance-page-pro) |
-| **Status Page Pro** | Self-hosted service status dashboard | [Demo](https://kasapdev.github.io/status-page-pro) · [Code](https://github.com/kasapdev/status-page-pro) |
-| **Coming Soon Builder Pro** | Launch countdown pages with email capture | [Demo](https://kasapdev.github.io/coming-soon-pro) · [Code](https://github.com/kasapdev/coming-soon-pro) |
-| **Error Page Builder Pro** | Craft & export gorgeous 404 / 500 pages | [Demo](https://kasapdev.github.io/error-page-pro) · [Code](https://github.com/kasapdev/error-page-pro) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayrakasapoglu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayraksp)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayracode)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kasapdev)
 
 </div>
 
-> Bundled monorepo of the first 8 tools: **[kasapdev/web-utility-suite](https://github.com/kasapdev/web-utility-suite)**
+---
+
+## About Me
+
+I'm **Kayra**, a front-end developer who builds small, focused, dependency-free web tools instead of bloated apps. Everything I ship runs 100% offline, works instantly, and doesn't ask for a single `npm install`.
+
+**12+ production tools** live at [kasapdev.github.io](https://kasapdev.github.io) - Focused on **Vanilla JS**, clean UI and zero-dependency architecture - Also builds tooling for **FiveM / Discord bot** ecosystems - Currently @ **S16 Bilisim** - Turkiye
+
+---
+
+## Most Useful Project
+
+<div align="center">
+
+### JSON Formatter Pro
+**Beautify, minify & validate JSON instantly - with syntax highlighting, tree view and zero setup.**
+
+The tool I personally reach for the most, and the one most developers will find useful daily.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kasapdev.github.io/json-formatter-pro)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kasapdev/json-formatter-pro)
+
+</div>
+
+---
+
+## Featured Projects - 12 Production Tools
+
+*Every project is standalone, dependency-free, and runs 100% offline. Built with pure HTML, CSS & Vanilla JS.*
+
+**Productivity Tools**
+
+| Tool | What it does | Live |
+|------|--------------|------|
+| **Password Generator Pro** | Cryptographic passwords with live entropy analysis | [Demo](https://kasapdev.github.io/password-generator-pro) - [Code](https://github.com/kasapdev/password-generator-pro) |
+| **QR Generator Pro** | QR codes for URL, WiFi, email & SMS - PNG & SVG | [Demo](https://kasapdev.github.io/qr-generator-pro) - [Code](https://github.com/kasapdev/qr-generator-pro) |
+| **JSON Formatter Pro** | Beautify, minify & validate JSON with highlighting | [Demo](https://kasapdev.github.io/json-formatter-pro) - [Code](https://github.com/kasapdev/json-formatter-pro) |
+| **Color Palette Generator Pro** | HEX / RGB / HSL palettes with harmony modes | [Demo](https://kasapdev.github.io/color-palette-generator-pro) - [Code](https://github.com/kasapdev/color-palette-generator-pro) |
+| **Pomodoro Timer Pro** | Focus timer with SVG ring, streaks & stats | [Demo](https://kasapdev.github.io/pomodoro-timer-pro) - [Code](https://github.com/kasapdev/pomodoro-timer-pro) |
+| **Markdown Notepad Pro** | Live markdown editor with multi-note manager | [Demo](https://kasapdev.github.io/markdown-notepad-pro) - [Code](https://github.com/kasapdev/markdown-notepad-pro) |
+
+
+**Discord & FiveM Tools**
+
+| Tool | What it does | Live |
+|------|--------------|------|
+| **Discord Embed Builder Pro** | Visual Discord embed designer + webhook JSON | [Demo](https://kasapdev.github.io/discord-embed-builder-pro) - [Code](https://github.com/kasapdev/discord-embed-builder-pro) |
+| **FiveM Command Builder Pro** | Generate Native / QBCore / ESX Lua commands | [Demo](https://kasapdev.github.io/fivem-command-builder-pro) - [Code](https://github.com/kasapdev/fivem-command-builder-pro) |
+
+**Site & Page Builders**
+
+| Tool | What it does | Live |
+|------|--------------|------|
+| **Maintenance Page Pro** | Design & export "under maintenance" pages | [Demo](https://kasapdev.github.io/maintenance-page-pro) - [Code](https://github.com/kasapdev/maintenance-page-pro) |
+| **Status Page Pro** | Self-hosted service status dashboard | [Demo](https://kasapdev.github.io/status-page-pro) - [Code](https://github.com/kasapdev/status-page-pro) |
+| **Coming Soon Builder Pro** | Launch countdown pages with email capture | [Demo](https://kasapdev.github.io/coming-soon-pro) - [Code](https://github.com/kasapdev/coming-soon-pro) |
+| **Error Page Builder Pro** | Craft & export gorgeous 404 / 500 pages | [Demo](https://kasapdev.github.io/error-page-pro) - [Code](https://github.com/kasapdev/error-page-pro) |
+
+*Bundled monorepo of the first 8 tools: [kasapdev/web-utility-suite](https://github.com/kasapdev/web-utility-suite)*
 
 ---
 
@@ -109,7 +151,7 @@
 
 *"The best tool is the one that gets out of your way."*
 
-**Zero frameworks &middot; Zero dependencies &middot; Zero compromise**
+**Zero frameworks - Zero dependencies - Zero compromise**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
