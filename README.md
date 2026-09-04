@@ -35,9 +35,9 @@
 
 ## About Me
 
-I'm **Kayra**, a front-end developer who builds small, focused, dependency-free web tools instead of bloated apps. Everything I ship runs 100% offline, works instantly, and doesn't ask for a single `npm install`.
+I'm **Kayra**, a developer who ships small, focused tools instead of bloated apps — from zero-dependency vanilla JS utilities to a growing suite of TypeScript AI-agent tooling.
 
-**12+ production tools** live at [kasapdev.github.io](https://kasapdev.github.io) - Focused on **Vanilla JS**, clean UI and zero-dependency architecture - Also builds tooling for **FiveM / Discord bot** ecosystems - Currently @ **S16 Bilisim** - Turkiye
+**12+ production tools** live at [kasapdev.github.io](https://kasapdev.github.io), built with **Vanilla JS**, clean UI and zero-dependency architecture - **12 TypeScript repos** cover AI agents, dev CLIs, automation bots, Roblox/Godot, hosting/logistics and security tooling - Also builds for **FiveM / Discord bot** ecosystems - Currently @ **S16 Bilisim** - Turkiye
 
 ---
 
@@ -93,6 +93,27 @@ The tool I personally reach for the most, and the one most developers will find 
 
 ---
 
+## AI & Dev-Tooling Portfolio - 12 TypeScript Repos
+
+*A separate suite of real, working TypeScript/Node tools — Claude-agent apps, CLIs, SDKs and bots. pnpm workspaces, MIT licensed, CI on every repo.*
+
+| Repo | What it does |
+|------|--------------|
+| **[kasap-ai-tools](https://github.com/kasapdev/kasap-ai-tools)** | Shared Claude-agent core + Discord support bot, Roblox/Godot design assistant, logistics SDK, e-commerce listing optimizer, PDF invoice extractor, LLM cost tracker |
+| **[kasap-dev-cli-tools](https://github.com/kasapdev/kasap-dev-cli-tools)** | repo-health-cli, commitlint-tr, env-doctor, pkg-bloat, changelog-gen |
+| **[kasap-api-sdk-kit](https://github.com/kasapdev/kasap-api-sdk-kit)** | Typed SDK clients: Steam Market, Discord webhooks, Twitch clips, Roblox Open Cloud, Godot Asset Library |
+| **[kasap-automation-bots](https://github.com/kasapdev/kasap-automation-bots)** | eBay price watcher, uptime bots, domain/SSL expiry notifier, issue triage, Discord ticket/economy bots |
+| **[kasap-roblox-godot-tools](https://github.com/kasapdev/kasap-roblox-godot-tools)** | Luau formatter, save inspector, DataStore backup, anti-cheat heuristics, analytics SDK, dialogue editor |
+| **[kasap-hosting-infra-tools](https://github.com/kasapdev/kasap-hosting-infra-tools)** | Uptime dashboard, cPanel migration helper, SSL renewal watcher, nginx config linter |
+| **[kasap-logistics-tools](https://github.com/kasapdev/kasap-logistics-tools)** | Fleet fuel tracker, route cost calculator, CMR parser, customs tariff lookup, carrier tracking |
+| **[kasap-dev-productivity-tools](https://github.com/kasapdev/kasap-dev-productivity-tools)** | Encrypted dotfiles sync, snippet vault, PR size labeler, stale-branch reporter |
+| **[kasap-quality-tools](https://github.com/kasapdev/kasap-quality-tools)** | Flaky test detector, API contract diff, seed data generator, load-test tool |
+| **[kasap-security-tools](https://github.com/kasapdev/kasap-security-tools)** | Git secret scanner, rate-limit middleware kit, CORS config auditor |
+| **[kasap-data-viz-tools](https://github.com/kasapdev/kasap-data-viz-tools)** | CSV-to-dashboard, log parser/summarizer, JSON Schema diff visualizer |
+| **[kasap-profile-tools](https://github.com/kasapdev/kasap-profile-tools)** | Curated awesome-list + the GitHub Action that regenerates this profile |
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -100,7 +121,9 @@ The tool I personally reach for the most, and the one most developers will find 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
