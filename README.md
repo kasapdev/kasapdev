@@ -29,7 +29,7 @@ I'm **Kayra**, a backend & full-stack developer designing scalable, performance-
 
 Comfortable with Linux server administration, Git-based version control and cloud infra, and used to owning a project end-to-end from requirements to production. 18 years old, working on real production systems.
 
-Also ships **38+ zero-dependency vanilla JS tools** at [kasapdev.github.io](https://kasapdev.github.io) and **12 TypeScript repos** of AI-agent tooling, dev CLIs, automation bots and Roblox/Godot utilities as open source — see below.
+Also ships **45+ zero-dependency vanilla JS tools** at [kasapdev.github.io](https://kasapdev.github.io), **15 tested PHP/Java backend libraries**, and **12 TypeScript repos** of AI-agent tooling, dev CLIs, automation bots and Roblox/Godot utilities as open source — see below.
 
 Open to collaboration, projects or career opportunities.
 
@@ -91,7 +91,7 @@ The tool I personally reach for the most, and the one most developers will find 
 
 ---
 
-## Featured Projects - 38 Production Tools
+## Featured Projects - 45 Production Tools
 
 *Every project is standalone, dependency-free, and runs 100% offline. Built with pure HTML, CSS & Vanilla JS.*
 
@@ -170,6 +170,49 @@ The tool I personally reach for the most, and the one most developers will find 
 |------|--------------|------|
 | **Discord Webhook Tester Pro** | Visual embed builder that sends real test payloads | [Demo](https://kasapdev.github.io/discord-webhook-tester-pro/) - [Code](https://github.com/kasapdev/discord-webhook-tester-pro) |
 | **Minecraft MOTD Generator Pro** | §-code MOTD builder with server-list preview | [Demo](https://kasapdev.github.io/minecraft-motd-generator-pro/) - [Code](https://github.com/kasapdev/minecraft-motd-generator-pro) |
+
+**Backend & Ops**
+
+| Tool | What it does | Live |
+|------|--------------|------|
+| **.htaccess Generator Pro** | HTTPS/www redirects, caching, security headers, compression | [Demo](https://kasapdev.github.io/htaccess-generator-pro/) - [Code](https://github.com/kasapdev/htaccess-generator-pro) |
+| **Placeholder Image Generator Pro** | Canvas-generated placeholder images, no hosted service needed | [Demo](https://kasapdev.github.io/placeholder-image-generator-pro/) - [Code](https://github.com/kasapdev/placeholder-image-generator-pro) |
+| **HTTP Status Code Reference Pro** | Searchable status codes + "which code should I use" helper | [Demo](https://kasapdev.github.io/http-status-code-reference-pro/) - [Code](https://github.com/kasapdev/http-status-code-reference-pro) |
+| **CLI Color Code Picker Pro** | ANSI escape code builder with live terminal preview | [Demo](https://kasapdev.github.io/cli-color-code-picker-pro/) - [Code](https://github.com/kasapdev/cli-color-code-picker-pro) |
+| **DB Connection String Builder Pro** | MySQL/Postgres/MongoDB/Redis URI builder & parser | [Demo](https://kasapdev.github.io/db-connection-string-builder-pro/) - [Code](https://github.com/kasapdev/db-connection-string-builder-pro) |
+| **Nginx Config Generator Pro** | Static site, reverse proxy, SSL & rate-limit server blocks | [Demo](https://kasapdev.github.io/nginx-config-generator-pro/) - [Code](https://github.com/kasapdev/nginx-config-generator-pro) |
+| **API Mock Generator Pro** | Realistic fake JSON data from a schema, with type inference | [Demo](https://kasapdev.github.io/api-mock-generator-pro/) - [Code](https://github.com/kasapdev/api-mock-generator-pro) |
+
+---
+
+## Backend Libraries - 15 PHP & Java Packages
+
+*Zero-dependency, real tested libraries — no framework required. PHP verified with a hand-written test harness (SQLite for DB-backed tests); Java verified with plain `javac`/`java`, no Maven/Gradle.*
+
+**PHP 8.1+**
+
+| Repo | What it does |
+|------|--------------|
+| **[php-micro-router](https://github.com/kasapdev/php-micro-router)** | Regex-based router: named params, groups, onion-style middleware |
+| **[php-query-builder](https://github.com/kasapdev/php-query-builder)** | Fluent SQL builder, always-parameterized (injection-safe by construction) |
+| **[php-jwt-auth](https://github.com/kasapdev/php-jwt-auth)** | JWT encode/decode/verify — HS256 & RS256, typed exceptions |
+| **[php-rate-limiter](https://github.com/kasapdev/php-rate-limiter)** | Token-bucket & sliding-window limiters, array/file storage backends |
+| **[php-env-validator](https://github.com/kasapdev/php-env-validator)** | Typed `.env` loader/validator, aggregates all violations at once |
+| **[php-migration-runner](https://github.com/kasapdev/php-migration-runner)** | PDO migration runner: migrate/rollback/status, tested on real SQLite |
+| **[php-cache-lite](https://github.com/kasapdev/php-cache-lite)** | PSR-16-shaped cache, in-memory & file drivers with TTL |
+| **[php-request-validator](https://github.com/kasapdev/php-request-validator)** | Laravel-style validation rules for request/form data |
+
+**Java 17**
+
+| Repo | What it does |
+|------|--------------|
+| **[java-json-diff](https://github.com/kasapdev/java-json-diff)** | Hand-rolled JSON parser + structural diff by JSON-pointer path |
+| **[java-rate-limiter](https://github.com/kasapdev/java-rate-limiter)** | Thread-safe token-bucket & sliding-window limiters |
+| **[java-csv-toolkit](https://github.com/kasapdev/java-csv-toolkit)** | RFC 4180 CSV reader/writer, exact round-trip guaranteed |
+| **[java-cli-arg-parser](https://github.com/kasapdev/java-cli-arg-parser)** | Lightweight CLI flag/option/positional parser with help text |
+| **[java-simple-cache](https://github.com/kasapdev/java-simple-cache)** | Thread-safe LRU cache with per-entry TTL |
+| **[java-env-config](https://github.com/kasapdev/java-env-config)** | Typed `.env` config loader with aggregated validation |
+| **[java-retry](https://github.com/kasapdev/java-retry)** | Retry-with-backoff utility, jitter, retryable-exception filtering |
 
 ---
 
