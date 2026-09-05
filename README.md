@@ -40,19 +40,37 @@ Open to collaboration, projects or career opportunities.
 _Regenerated automatically every day via [kasap-profile-tools](https://github.com/kasapdev/kasap-profile-tools) — real GitHub API data, no third-party image services._
 
 <!--STATS:START-->
-_This section is regenerated automatically. Run the action once to populate it._
+| Metric | Value |
+| --- | --- |
+| Public repositories | 62 |
+| Total stars | 52 |
+
+**Top languages (by bytes across public repos):**
+
+| Language | Share |
+| --- | --- |
+| JavaScript | 41.9% |
+| TypeScript | 28.2% |
+| CSS | 18.6% |
+| HTML | 9.4% |
+| PHP | 1.4% |
+| Lua | 0.3% |
 <!--STATS:END-->
 
 ### Recent Activity
 
 <!--RECENT:START-->
-_This section is regenerated automatically. Run the action once to populate it._
+- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-05 — GitHub profile README - kasapdev
+- **[meta-tag-generator-pro](https://github.com/kasapdev/meta-tag-generator-pro)** — last pushed 2026-09-05 — Build and preview Open Graph/Twitter/SEO meta tags with live Google, X and link-preview mockups. Vanilla JS, no backend.
+- **[ascii-art-generator-pro](https://github.com/kasapdev/ascii-art-generator-pro)** — last pushed 2026-09-04 — Turn text into large ASCII-art banners with 3 hand-built bitmap fonts. Vanilla JS, no backend/frameworks.
+- **[readme-generator-pro](https://github.com/kasapdev/readme-generator-pro)** — last pushed 2026-09-04 — Build a polished README.md from a form, with live Markdown preview and shields.io badges. Vanilla JS, no backend/frameworks.
+- **[cron-expression-builder-pro](https://github.com/kasapdev/cron-expression-builder-pro)** — last pushed 2026-09-04 — Visual cron expression builder with a plain-English explanation and a next-5-run-times calculator. Vanilla JS, no backend/frameworks.
 <!--RECENT:END-->
 
 ### Pinned
 
 <!--PINNED:START-->
-_This section is regenerated automatically. Run the action once to populate it._
+_No pinned repositories found._
 <!--PINNED:END-->
 
 ---
