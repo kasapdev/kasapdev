@@ -204,35 +204,7 @@ The tool I personally reach for the most, and the one most developers will find 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kasapdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f1a&title_color=6366f1&icon_color=8b5cf6&text_color=b4b7c6&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasapdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f1a&title_color=6366f1&text_color=b4b7c6&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
 <img width="68%" src="https://streak-stats.demolab.com?user=kasapdev&theme=tokyonight&hide_border=true&background=0d0f1a&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1&sideLabels=b4b7c6&dates=71758a&sideNums=f4f5fa&currStreakNum=f4f5fa"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=kasapdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kasapdev&bg_color=0d0f1a&color=6366f1&line=8b5cf6&point=d946ef&area=true&hide_border=true&area_color=6366f1"/>
 
 </div>
 
