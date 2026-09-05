@@ -1,40 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=kasapdev&fontSize=90&fontColor=fff&fontAlignY=38&desc=Backend+%26+Full-Stack+Developer+-+Game+Server+Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+# kasapdev
 
-</div>
+**Backend & Full-Stack Developer** · Game Server Systems (MTA / FiveM) · Founder @ [VitrinX](https://vitrinx.net)
 
-<div align="center">
+[Portfolio](https://kasapdev.com.tr) · [LinkedIn](https://www.linkedin.com/in/kayrakasapoglu) · [Instagram](https://instagram.com/kayraksp) · [Discord](https://discord.com/users/kasapdev)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+Developer;MTA+%2F+FiveM+Game+Server+Systems;Founder+%40+VitrinX;CEO+%40+Ocean+Bilisim+(past)+-+S16+Bilisim+(now);Building+scalable+systems+since+18)](https://git.io/typing-svg)
-
-### [Visit my portfolio -> kasapdev.com.tr](https://kasapdev.com.tr)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kasapdev&color=6366f1&style=flat-square&label=Profile+Views)
-&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/kasapdev?style=flat-square&color=6366f1&labelColor=1a1b2e&label=Followers)](https://github.com/kasapdev?tab=followers)
-&nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/kasapdev?style=flat-square&color=8b5cf6&labelColor=1a1b2e&label=Total+Stars)](https://github.com/kasapdev)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayrakasapoglu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayraksp)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kasapdev)
-
-</div>
-
-<div align="center">
-
-[![VitrinX](https://img.shields.io/badge/VitrinX-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitrinx.net)
-[![Berilis Hosting](https://img.shields.io/badge/Berilis_Hosting-8b5cf6?style=for-the-badge&logo=serverfault&logoColor=white)](https://berilis.com)
-[![S16 Bilişim](https://img.shields.io/badge/S16_Bilişim-1a1b2e?style=for-the-badge&logo=briefcase&logoColor=white)](https://s16bilisim.com.tr)
+[![VitrinX](https://img.shields.io/badge/VitrinX-6366F1?style=flat-square&labelColor=1a1b2e)](https://vitrinx.net)
+[![Berilis Hosting](https://img.shields.io/badge/Berilis_Hosting-8b5cf6?style=flat-square&labelColor=1a1b2e)](https://berilis.com)
+[![S16 Bilişim](https://img.shields.io/badge/S16_Bilişim-6366f1?style=flat-square&labelColor=1a1b2e)](https://s16bilisim.com.tr)
 
 </div>
 
@@ -53,9 +29,31 @@ I'm **Kayra**, a backend & full-stack developer designing scalable, performance-
 
 Comfortable with Linux server administration, Git-based version control and cloud infra, and used to owning a project end-to-end from requirements to production. 18 years old, working on real production systems.
 
-Also ships **12+ zero-dependency vanilla JS tools** at [kasapdev.github.io](https://kasapdev.github.io) and **12 TypeScript repos** of AI-agent tooling, dev CLIs, automation bots and Roblox/Godot utilities as open source — see below.
+Also ships **38+ zero-dependency vanilla JS tools** at [kasapdev.github.io](https://kasapdev.github.io) and **12 TypeScript repos** of AI-agent tooling, dev CLIs, automation bots and Roblox/Godot utilities as open source — see below.
 
 Open to collaboration, projects or career opportunities.
+
+---
+
+## Live Stats
+
+_Regenerated automatically every day via [kasap-profile-tools](https://github.com/kasapdev/kasap-profile-tools) — real GitHub API data, no third-party image services._
+
+<!--STATS:START-->
+_This section is regenerated automatically. Run the action once to populate it._
+<!--STATS:END-->
+
+### Recent Activity
+
+<!--RECENT:START-->
+_This section is regenerated automatically. Run the action once to populate it._
+<!--RECENT:END-->
+
+### Pinned
+
+<!--PINNED:START-->
+_This section is regenerated automatically. Run the action once to populate it._
+<!--PINNED:END-->
 
 ---
 
@@ -182,29 +180,14 @@ The tool I personally reach for the most, and the one most developers will find 
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="68%" src="https://streak-stats.demolab.com?user=kasapdev&theme=tokyonight&hide_border=true&background=0d0f1a&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1&sideLabels=b4b7c6&dates=71758a&sideNums=f4f5fa&currStreakNum=f4f5fa"/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -214,8 +197,6 @@ The tool I personally reach for the most, and the one most developers will find 
 
 *"The best tool is the one that gets out of your way."*
 
-**Scalable systems by day - Zero-dependency tools by night**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+**Scalable systems by day · Zero-dependency tools by night**
 
 </div>

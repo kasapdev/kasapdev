@@ -1,0 +1,35 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore:
+      - README.md
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate README sections
+        uses: kasapdev/kasap-profile-tools/packages/profile-readme-generator@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: kasapdev
+          readme_path: README.md
+          recent_count: '5'
+          pinned_count: '6'
+          language_count: '6'
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git diff --quiet README.md || (git add README.md && git commit -m 'chore: update README stats' && git push)
