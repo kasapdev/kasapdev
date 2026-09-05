@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Regenerate README sections
-        uses: kasapdev/kasap-profile-tools/packages/profile-readme-generator@main
+        uses: kasapdev/kasap-profile-tools/packages/profile-readme-generator@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: kasapdev
