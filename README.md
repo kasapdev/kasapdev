@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=kasapdev&fontSize=90&fontColor=fff&fontAlignY=38&desc=Building+premium+web+tools+with+Vanilla+JS&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=kasapdev&fontSize=90&fontColor=fff&fontAlignY=38&desc=Backend+%26+Full-Stack+Developer+-+Game+Server+Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Front-End+Developer;Open+Source+Enthusiast;Vanilla+JS+Craftsman;Building+tools+people+actually+use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+Developer;MTA+%2F+FiveM+Game+Server+Systems;Founder+%40+VitrinX;CEO+%40+Ocean+Bilisim+(past)+-+S16+Bilisim+(now);Building+scalable+systems+since+18)](https://git.io/typing-svg)
 
-### [Visit my portfolio -> kasapdev.github.io](https://kasapdev.github.io)
+### [Visit my portfolio -> kasapdev.com.tr](https://kasapdev.com.tr)
 
 </div>
 
@@ -26,8 +26,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayrakasapoglu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayraksp)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayracode)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kasapdev)
+
+</div>
+
+<div align="center">
+
+[![VitrinX](https://img.shields.io/badge/VitrinX-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitrinx.net)
+[![Berilis Hosting](https://img.shields.io/badge/Berilis_Hosting-8b5cf6?style=for-the-badge&logo=serverfault&logoColor=white)](https://berilis.com)
+[![S16 Bilişim](https://img.shields.io/badge/S16_Bilişim-1a1b2e?style=for-the-badge&logo=briefcase&logoColor=white)](https://s16bilisim.com.tr)
 
 </div>
 
@@ -35,9 +42,20 @@
 
 ## About Me
 
-I'm **Kayra**, a developer who ships small, focused tools instead of bloated apps — from zero-dependency vanilla JS utilities to a growing suite of TypeScript AI-agent tooling.
+I'm **Kayra**, a backend & full-stack developer designing scalable, performance-oriented systems in **PHP, JavaScript, Java and Node.js** — layered architecture, RESTful API design and microservices, with particular attention to **MySQL** schema design (indexing strategy, normalization trade-offs, query optimization). I build production-grade third-party API integrations (OAuth, JWT auth, rate limiting, proper error handling) and specialize deeply in **game server platforms (MTA, FiveM)**: low-latency event-driven systems, real-time data sync, and custom high-concurrency modules (economy/inventory systems, security layers).
 
-**12+ production tools** live at [kasapdev.github.io](https://kasapdev.github.io), built with **Vanilla JS**, clean UI and zero-dependency architecture - **12 TypeScript repos** cover AI agents, dev CLIs, automation bots, Roblox/Godot, hosting/logistics and security tooling - Also builds for **FiveM / Discord bot** ecosystems - Currently @ **S16 Bilisim** - Turkiye
+**Currently:**
+- Backend systems & game-server tooling @ **[S16 Bilişim](https://s16bilisim.com.tr)** — performance profiling and load balancing built into system design from day one
+- Founder (since July 2026) of **[VitrinX](https://vitrinx.net)** — an ecosystem for business visibility: ad marketplace, business directory, smart search infrastructure
+- Hosting & infra consulting @ **[Berilis Hosting](https://berilis.com)** — VDS/VPS process management (PM2, systemd) and deployment automation
+
+**Previously:** CEO @ Ocean Bilişim — technical leadership across product architecture, infra scaling, uptime optimization, monitoring and failover.
+
+Comfortable with Linux server administration, Git-based version control and cloud infra, and used to owning a project end-to-end from requirements to production. 18 years old, working on real production systems.
+
+Also ships **12+ zero-dependency vanilla JS tools** at [kasapdev.github.io](https://kasapdev.github.io) and **12 TypeScript repos** of AI-agent tooling, dev CLIs, automation bots and Roblox/Godot utilities as open source — see below.
+
+Open to collaboration, projects or career opportunities.
 
 ---
 
@@ -57,7 +75,7 @@ The tool I personally reach for the most, and the one most developers will find 
 
 ---
 
-## Featured Projects - 12 Production Tools
+## Featured Projects - 38 Production Tools
 
 *Every project is standalone, dependency-free, and runs 100% offline. Built with pure HTML, CSS & Vanilla JS.*
 
@@ -91,6 +109,52 @@ The tool I personally reach for the most, and the one most developers will find 
 
 *Bundled monorepo of the first 8 tools: [kasapdev/web-utility-suite](https://github.com/kasapdev/web-utility-suite)*
 
+**Developer Utilities**
+
+| Tool | What it does | Live |
+|------|--------------|------|
+| **Regex Tester Pro** | Live regex matching, capture groups & replace preview | [Demo](https://kasapdev.github.io/regex-tester-pro/) - [Code](https://github.com/kasapdev/regex-tester-pro) |
+| **Cron Expression Builder Pro** | Visual cron builder with plain-English explanation | [Demo](https://kasapdev.github.io/cron-expression-builder-pro/) - [Code](https://github.com/kasapdev/cron-expression-builder-pro) |
+| **Diff Checker Pro** | Line & word-level text/code diff, side-by-side or unified | [Demo](https://kasapdev.github.io/diff-checker-pro/) - [Code](https://github.com/kasapdev/diff-checker-pro) |
+| **JWT Decoder Pro** | Decode & inspect JWT header/payload/claims | [Demo](https://kasapdev.github.io/jwt-decoder-pro/) - [Code](https://github.com/kasapdev/jwt-decoder-pro) |
+| **Hash Generator Pro** | MD5/SHA-1/256/384/512 for text & files | [Demo](https://kasapdev.github.io/hash-generator-pro/) - [Code](https://github.com/kasapdev/hash-generator-pro) |
+| **UUID / ULID Generator Pro** | Bulk UUID v4 & ULID generation | [Demo](https://kasapdev.github.io/uuid-generator-pro/) - [Code](https://github.com/kasapdev/uuid-generator-pro) |
+| **CSV ⇄ JSON Pro** | Bidirectional CSV/JSON converter with type inference | [Demo](https://kasapdev.github.io/csv-to-json-pro/) - [Code](https://github.com/kasapdev/csv-to-json-pro) |
+| **Gitignore Generator Pro** | Merge curated `.gitignore` templates for 20+ stacks | [Demo](https://kasapdev.github.io/gitignore-generator-pro/) - [Code](https://github.com/kasapdev/gitignore-generator-pro) |
+| **License Picker Pro** | Compare & generate real OSS license text | [Demo](https://kasapdev.github.io/license-picker-pro/) - [Code](https://github.com/kasapdev/license-picker-pro) |
+| **README Generator Pro** | Build a README with badges & live preview | [Demo](https://kasapdev.github.io/readme-generator-pro/) - [Code](https://github.com/kasapdev/readme-generator-pro) |
+| **Text Case Converter Pro** | camelCase / snake_case / kebab-case & more, live | [Demo](https://kasapdev.github.io/text-case-converter-pro/) - [Code](https://github.com/kasapdev/text-case-converter-pro) |
+
+**Design & Assets**
+
+| Tool | What it does | Live |
+|------|--------------|------|
+| **CSS Gradient Generator Pro** | Multi-stop linear/radial/conic gradient builder | [Demo](https://kasapdev.github.io/css-gradient-generator-pro/) - [Code](https://github.com/kasapdev/css-gradient-generator-pro) |
+| **Favicon Generator Pro** | Full favicon set (16-512px) from one image | [Demo](https://kasapdev.github.io/favicon-generator-pro/) - [Code](https://github.com/kasapdev/favicon-generator-pro) |
+| **SVG Optimizer Pro** | Client-side SVG minifier with before/after preview | [Demo](https://kasapdev.github.io/svg-optimizer-pro/) - [Code](https://github.com/kasapdev/svg-optimizer-pro) |
+| **Base64 Image Converter Pro** | Image ⇄ base64 data URI, both directions | [Demo](https://kasapdev.github.io/base64-image-converter-pro/) - [Code](https://github.com/kasapdev/base64-image-converter-pro) |
+| **ASCII Art Generator Pro** | Text-to-banner ASCII art, 3 font styles | [Demo](https://kasapdev.github.io/ascii-art-generator-pro/) - [Code](https://github.com/kasapdev/ascii-art-generator-pro) |
+
+**Documents & Productivity**
+
+| Tool | What it does | Live |
+|------|--------------|------|
+| **Invoice Generator Pro** | Line-item invoices with print-to-PDF | [Demo](https://kasapdev.github.io/invoice-generator-pro/) - [Code](https://github.com/kasapdev/invoice-generator-pro) |
+| **Resume Builder Pro** | CV builder with 2 themes & print export | [Demo](https://kasapdev.github.io/resume-builder-pro/) - [Code](https://github.com/kasapdev/resume-builder-pro) |
+| **Changelog Generator Pro** | Keep-a-Changelog-format entry builder | [Demo](https://kasapdev.github.io/changelog-generator-pro/) - [Code](https://github.com/kasapdev/changelog-generator-pro) |
+| **Meta Tag Generator Pro** | SEO/OG/Twitter meta tags with live social previews | [Demo](https://kasapdev.github.io/meta-tag-generator-pro/) - [Code](https://github.com/kasapdev/meta-tag-generator-pro) |
+| **Countdown Widget Pro** | Themed countdown + embeddable HTML snippet | [Demo](https://kasapdev.github.io/countdown-widget-pro/) - [Code](https://github.com/kasapdev/countdown-widget-pro) |
+| **Unit Converter Pro** | Length/weight/temp/area/volume/data-storage | [Demo](https://kasapdev.github.io/unit-converter-pro/) - [Code](https://github.com/kasapdev/unit-converter-pro) |
+| **Timezone Converter Pro** | Multi-timezone converter + meeting planner | [Demo](https://kasapdev.github.io/timezone-converter-pro/) - [Code](https://github.com/kasapdev/timezone-converter-pro) |
+| **Lorem Ipsum Generator Pro** | Placeholder text, classic & themed word banks | [Demo](https://kasapdev.github.io/lorem-ipsum-generator-pro/) - [Code](https://github.com/kasapdev/lorem-ipsum-generator-pro) |
+
+**Discord & Game Server**
+
+| Tool | What it does | Live |
+|------|--------------|------|
+| **Discord Webhook Tester Pro** | Visual embed builder that sends real test payloads | [Demo](https://kasapdev.github.io/discord-webhook-tester-pro/) - [Code](https://github.com/kasapdev/discord-webhook-tester-pro) |
+| **Minecraft MOTD Generator Pro** | §-code MOTD builder with server-list preview | [Demo](https://kasapdev.github.io/minecraft-motd-generator-pro/) - [Code](https://github.com/kasapdev/minecraft-motd-generator-pro) |
+
 ---
 
 ## AI & Dev-Tooling Portfolio - 12 TypeScript Repos
@@ -118,11 +182,15 @@ The tool I personally reach for the most, and the one most developers will find 
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -174,7 +242,7 @@ The tool I personally reach for the most, and the one most developers will find 
 
 *"The best tool is the one that gets out of your way."*
 
-**Zero frameworks - Zero dependencies - Zero compromise**
+**Scalable systems by day - Zero-dependency tools by night**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
