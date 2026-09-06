@@ -42,29 +42,29 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 <!--STATS:START-->
 | Metric | Value |
 | --- | --- |
-| Public repositories | 62 |
+| Public repositories | 91 |
 | Total stars | 52 |
 
 **Top languages (by bytes across public repos):**
 
 | Language | Share |
 | --- | --- |
-| JavaScript | 41.9% |
-| TypeScript | 28.2% |
-| CSS | 18.6% |
-| HTML | 9.4% |
-| PHP | 1.4% |
-| Lua | 0.3% |
+| JavaScript | 38.2% |
+| TypeScript | 25.6% |
+| CSS | 19.0% |
+| HTML | 9.6% |
+| PHP | 4.5% |
+| Java | 2.6% |
 <!--STATS:END-->
 
 ### Recent Activity
 
 <!--RECENT:START-->
-- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-05 — GitHub profile README - kasapdev
-- **[meta-tag-generator-pro](https://github.com/kasapdev/meta-tag-generator-pro)** — last pushed 2026-09-05 — Build and preview Open Graph/Twitter/SEO meta tags with live Google, X and link-preview mockups. Vanilla JS, no backend.
-- **[ascii-art-generator-pro](https://github.com/kasapdev/ascii-art-generator-pro)** — last pushed 2026-09-04 — Turn text into large ASCII-art banners with 3 hand-built bitmap fonts. Vanilla JS, no backend/frameworks.
-- **[readme-generator-pro](https://github.com/kasapdev/readme-generator-pro)** — last pushed 2026-09-04 — Build a polished README.md from a form, with live Markdown preview and shields.io badges. Vanilla JS, no backend/frameworks.
-- **[cron-expression-builder-pro](https://github.com/kasapdev/cron-expression-builder-pro)** — last pushed 2026-09-04 — Visual cron expression builder with a plain-English explanation and a next-5-run-times calculator. Vanilla JS, no backend/frameworks.
+- **[Flinkboot](https://github.com/kasapdev/Flinkboot)** — last pushed 2026-09-06 — The Bootstrapping & Reliability Framework for Apache Flink. Fail fast on configuration, serialize natively without Kryo, and bootstrap stream pipelines with zero boilerplate.
+- **[color-palette-generator-pro](https://github.com/kasapdev/color-palette-generator-pro)** — last pushed 2026-09-06 — Generate gorgeous color palettes in HEX, RGB and HSL with harmony modes. Offline Vanilla JS.
+- **[password-generator-pro](https://github.com/kasapdev/password-generator-pro)** — last pushed 2026-09-06 — Cryptographically-secure password generator with live strength and entropy analysis. Vanilla JS, no frameworks.
+- **[json-formatter-pro](https://github.com/kasapdev/json-formatter-pro)** — last pushed 2026-09-06 — Beautify, minify, validate and inspect JSON with syntax highlighting. Offline Vanilla JS tool.
+- **[regex-tester-pro](https://github.com/kasapdev/regex-tester-pro)** — last pushed 2026-09-06 — Live regex tester with highlighted matches, capture groups, a replace-preview mode, and common pattern presets. Vanilla JS, no backend/frameworks.
 <!--RECENT:END-->
 
 ### Pinned
