@@ -42,7 +42,7 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 <!--STATS:START-->
 | Metric | Value |
 | --- | --- |
-| Public repositories | 91 |
+| Public repositories | 92 |
 | Total stars | 52 |
 
 **Top languages (by bytes across public repos):**
@@ -60,11 +60,11 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 ### Recent Activity
 
 <!--RECENT:START-->
+- **[recode-event](https://github.com/kasapdev/recode-event)** — last pushed 2026-09-06
+- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-06 — GitHub profile README - kasapdev
 - **[Flinkboot](https://github.com/kasapdev/Flinkboot)** — last pushed 2026-09-06 — The Bootstrapping & Reliability Framework for Apache Flink. Fail fast on configuration, serialize natively without Kryo, and bootstrap stream pipelines with zero boilerplate.
 - **[color-palette-generator-pro](https://github.com/kasapdev/color-palette-generator-pro)** — last pushed 2026-09-06 — Generate gorgeous color palettes in HEX, RGB and HSL with harmony modes. Offline Vanilla JS.
 - **[password-generator-pro](https://github.com/kasapdev/password-generator-pro)** — last pushed 2026-09-06 — Cryptographically-secure password generator with live strength and entropy analysis. Vanilla JS, no frameworks.
-- **[json-formatter-pro](https://github.com/kasapdev/json-formatter-pro)** — last pushed 2026-09-06 — Beautify, minify, validate and inspect JSON with syntax highlighting. Offline Vanilla JS tool.
-- **[regex-tester-pro](https://github.com/kasapdev/regex-tester-pro)** — last pushed 2026-09-06 — Live regex tester with highlighted matches, capture groups, a replace-preview mode, and common pattern presets. Vanilla JS, no backend/frameworks.
 <!--RECENT:END-->
 
 ### Pinned
