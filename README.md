@@ -49,22 +49,22 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 
 | Language | Share |
 | --- | --- |
-| JavaScript | 38.2% |
-| TypeScript | 25.6% |
-| CSS | 19.0% |
-| HTML | 9.6% |
-| PHP | 4.5% |
-| Java | 2.6% |
+| JavaScript | 36.6% |
+| TypeScript | 27.3% |
+| CSS | 17.7% |
+| HTML | 9.2% |
+| PHP | 4.8% |
+| Java | 3.9% |
 <!--STATS:END-->
 
 ### Recent Activity
 
 <!--RECENT:START-->
-- **[recode-event](https://github.com/kasapdev/recode-event)** — last pushed 2026-09-06
-- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-06 — GitHub profile README - kasapdev
-- **[Flinkboot](https://github.com/kasapdev/Flinkboot)** — last pushed 2026-09-06 — The Bootstrapping & Reliability Framework for Apache Flink. Fail fast on configuration, serialize natively without Kryo, and bootstrap stream pipelines with zero boilerplate.
-- **[color-palette-generator-pro](https://github.com/kasapdev/color-palette-generator-pro)** — last pushed 2026-09-06 — Generate gorgeous color palettes in HEX, RGB and HSL with harmony modes. Offline Vanilla JS.
-- **[password-generator-pro](https://github.com/kasapdev/password-generator-pro)** — last pushed 2026-09-06 — Cryptographically-secure password generator with live strength and entropy analysis. Vanilla JS, no frameworks.
+- **[kasap-logistics-tools](https://github.com/kasapdev/kasap-logistics-tools)** — last pushed 2026-09-08 — 6 logistics/trucking/import tools: fleet fuel tracker, route cost calculator, CMR manifest parser, Turkish customs tariff lookup, exchange-rate alerts, multi-carrier shipment tracking
+- **[kasap-data-viz-tools](https://github.com/kasapdev/kasap-data-viz-tools)** — last pushed 2026-09-08 — 3 local data/viz tools: CSV-to-dashboard auto-chart generator, nginx/app log parser & summarizer, JSON Schema diff visualizer
+- **[kasap-roblox-godot-tools](https://github.com/kasapdev/kasap-roblox-godot-tools)** — last pushed 2026-09-08 — 9 tools for Roblox (Luau) & Godot (GDScript) game dev: formatter, save inspector, DataStore backup, anti-cheat heuristics, analytics SDK, dialogue editor, inventory/save-system addons, localization CLI
+- **[kasap-automation-bots](https://github.com/kasapdev/kasap-automation-bots)** — last pushed 2026-09-08 — 8 automation bots & GitHub Actions for hosting/logistics/e-commerce: eBay price watcher, uptime bots, domain/SSL expiry notifier, issue triage, release notes, Discord ticket/economy bots
+- **[kasap-dev-productivity-tools](https://github.com/kasapdev/kasap-dev-productivity-tools)** — last pushed 2026-09-08 — 5 developer productivity CLIs: encrypted dotfiles sync, snippet vault, PR size labeler, stale branch reporter, monorepo affected-package detector
 <!--RECENT:END-->
 
 ### Pinned
