@@ -42,29 +42,29 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 <!--STATS:START-->
 | Metric | Value |
 | --- | --- |
-| Public repositories | 92 |
+| Public repositories | 117 |
 | Total stars | 52 |
 
 **Top languages (by bytes across public repos):**
 
 | Language | Share |
 | --- | --- |
-| JavaScript | 36.6% |
-| TypeScript | 27.3% |
-| CSS | 17.7% |
-| HTML | 9.2% |
-| PHP | 4.8% |
-| Java | 3.9% |
+| JavaScript | 34.0% |
+| TypeScript | 25.9% |
+| CSS | 16.4% |
+| HTML | 8.6% |
+| Rust | 5.1% |
+| PHP | 4.4% |
 <!--STATS:END-->
 
 ### Recent Activity
 
 <!--RECENT:START-->
-- **[kasap-logistics-tools](https://github.com/kasapdev/kasap-logistics-tools)** — last pushed 2026-09-08 — 6 logistics/trucking/import tools: fleet fuel tracker, route cost calculator, CMR manifest parser, Turkish customs tariff lookup, exchange-rate alerts, multi-carrier shipment tracking
-- **[kasap-data-viz-tools](https://github.com/kasapdev/kasap-data-viz-tools)** — last pushed 2026-09-08 — 3 local data/viz tools: CSV-to-dashboard auto-chart generator, nginx/app log parser & summarizer, JSON Schema diff visualizer
-- **[kasap-roblox-godot-tools](https://github.com/kasapdev/kasap-roblox-godot-tools)** — last pushed 2026-09-08 — 9 tools for Roblox (Luau) & Godot (GDScript) game dev: formatter, save inspector, DataStore backup, anti-cheat heuristics, analytics SDK, dialogue editor, inventory/save-system addons, localization CLI
-- **[kasap-automation-bots](https://github.com/kasapdev/kasap-automation-bots)** — last pushed 2026-09-08 — 8 automation bots & GitHub Actions for hosting/logistics/e-commerce: eBay price watcher, uptime bots, domain/SSL expiry notifier, issue triage, release notes, Discord ticket/economy bots
-- **[kasap-dev-productivity-tools](https://github.com/kasapdev/kasap-dev-productivity-tools)** — last pushed 2026-09-08 — 5 developer productivity CLIs: encrypted dotfiles sync, snippet vault, PR size labeler, stale branch reporter, monorepo affected-package detector
+- **[rs-lsmtree](https://github.com/kasapdev/rs-lsmtree)** — last pushed 2026-09-08 — A simplified but correct LSM-tree key-value store with an on-disk SSTable format, tombstone deletes, and compaction. Zero-dependency Rust.
+- **[rs-trie](https://github.com/kasapdev/rs-trie)** — last pushed 2026-09-08 — A zero-dependency compressed radix trie (PATRICIA-style) for exact and prefix string lookup. Zero-dependency Rust.
+- **[rs-raftlite](https://github.com/kasapdev/rs-raftlite)** — last pushed 2026-09-08 — A scoped-down, deterministically simulated core of Raft consensus: leader election and log replication. Zero-dependency Rust.
+- **[rs-skiplist](https://github.com/kasapdev/rs-skiplist)** — last pushed 2026-09-08 — A real probabilistic skip list ordered map (like Redis ZSET / LevelDB memtables), cross-checked against BTreeMap. Zero-dependency Rust.
+- **[rs-consistenthash](https://github.com/kasapdev/rs-consistenthash)** — last pushed 2026-09-08 — A consistent hashing ring with virtual nodes for balanced key distribution and minimal remapping when nodes change. Zero-dependency Rust.
 <!--RECENT:END-->
 
 ### Pinned
