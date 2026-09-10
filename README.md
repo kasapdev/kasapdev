@@ -60,11 +60,11 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 ### Recent Activity
 
 <!--RECENT:START-->
+- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-09 — GitHub profile README - kasapdev
 - **[rs-lsmtree](https://github.com/kasapdev/rs-lsmtree)** — last pushed 2026-09-08 — A simplified but correct LSM-tree key-value store with an on-disk SSTable format, tombstone deletes, and compaction. Zero-dependency Rust.
 - **[rs-trie](https://github.com/kasapdev/rs-trie)** — last pushed 2026-09-08 — A zero-dependency compressed radix trie (PATRICIA-style) for exact and prefix string lookup. Zero-dependency Rust.
 - **[rs-raftlite](https://github.com/kasapdev/rs-raftlite)** — last pushed 2026-09-08 — A scoped-down, deterministically simulated core of Raft consensus: leader election and log replication. Zero-dependency Rust.
 - **[rs-skiplist](https://github.com/kasapdev/rs-skiplist)** — last pushed 2026-09-08 — A real probabilistic skip list ordered map (like Redis ZSET / LevelDB memtables), cross-checked against BTreeMap. Zero-dependency Rust.
-- **[rs-consistenthash](https://github.com/kasapdev/rs-consistenthash)** — last pushed 2026-09-08 — A consistent hashing ring with virtual nodes for balanced key distribution and minimal remapping when nodes change. Zero-dependency Rust.
 <!--RECENT:END-->
 
 ### Pinned
