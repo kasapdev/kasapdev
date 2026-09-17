@@ -60,7 +60,7 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 ### Recent Activity
 
 <!--RECENT:START-->
-- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-15 — GitHub profile README - kasapdev
+- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-16 — GitHub profile README - kasapdev
 - **[kruftle](https://github.com/kasapdev/kruftle)** — last pushed 2026-09-12 — Reclaim disk space from build artifacts across every project on your machine. A developer-oriented desktop cleaner that runs each toolchain's own clean command.
 - **[rs-lsmtree](https://github.com/kasapdev/rs-lsmtree)** — last pushed 2026-09-08 — A simplified but correct LSM-tree key-value store with an on-disk SSTable format, tombstone deletes, and compaction. Zero-dependency Rust.
 - **[rs-trie](https://github.com/kasapdev/rs-trie)** — last pushed 2026-09-08 — A zero-dependency compressed radix trie (PATRICIA-style) for exact and prefix string lookup. Zero-dependency Rust.
