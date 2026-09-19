@@ -383,12 +383,6 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 - **[rs-raftlite](https://github.com/kasapdev/rs-raftlite)** — last pushed 2026-09-08 — A scoped-down, deterministically simulated core of Raft consensus: leader election and log replication. Zero-dependency Rust.
 <!--RECENT:END-->
 
-### Pinned
-
-<!--PINNED:START-->
-_No pinned repositories found._
-<!--PINNED:END-->
-
 <br>
 
 <div align="center">
