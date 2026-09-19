@@ -366,11 +366,11 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 
 | Language | Share |
 | --- | --- |
-| JavaScript | 34.0% |
-| TypeScript | 25.9% |
+| JavaScript | 33.9% |
+| TypeScript | 26.0% |
 | CSS | 16.4% |
 | HTML | 8.6% |
-| Rust | 5.1% |
+| Rust | 5.0% |
 | PHP | 4.4% |
 <!--STATS:END-->
 
@@ -378,10 +378,10 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 
 <!--RECENT:START-->
 - **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-19 — GitHub profile README - kasapdev
+- **[kasap-profile-tools](https://github.com/kasapdev/kasap-profile-tools)** — last pushed 2026-09-19 — Profile visibility tools: a curated awesome-truckersmp-dev list and a GitHub Action that regenerates profile README stats/recent-activity/pinned-repo sections
 - **[kruftle](https://github.com/kasapdev/kruftle)** — last pushed 2026-09-12 — Reclaim disk space from build artifacts across every project on your machine. A developer-oriented desktop cleaner that runs each toolchain's own clean command.
 - **[rs-lsmtree](https://github.com/kasapdev/rs-lsmtree)** — last pushed 2026-09-08 — A simplified but correct LSM-tree key-value store with an on-disk SSTable format, tombstone deletes, and compaction. Zero-dependency Rust.
 - **[rs-trie](https://github.com/kasapdev/rs-trie)** — last pushed 2026-09-08 — A zero-dependency compressed radix trie (PATRICIA-style) for exact and prefix string lookup. Zero-dependency Rust.
-- **[rs-raftlite](https://github.com/kasapdev/rs-raftlite)** — last pushed 2026-09-08 — A scoped-down, deterministically simulated core of Raft consensus: leader election and log replication. Zero-dependency Rust.
 <!--RECENT:END-->
 
 <br>
