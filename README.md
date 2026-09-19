@@ -15,7 +15,6 @@
 
 [![Followers](https://img.shields.io/github/followers/kasapdev?style=flat-square&color=6366f1&labelColor=1a1b2e&label=Followers)](https://github.com/kasapdev?tab=followers)
 [![Stars](https://img.shields.io/github/stars/kasapdev?style=flat-square&color=8b5cf6&labelColor=1a1b2e&label=Total+Stars)](https://github.com/kasapdev)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkasapdev&query=%24.public_repos&style=flat-square&color=22d3ee&labelColor=1a1b2e&label=Public+Repos)](https://github.com/kasapdev?tab=repositories)
 
 </div>
 
