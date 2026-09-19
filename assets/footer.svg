@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" preserveAspectRatio="none" role="img" aria-label="">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <!-- each path spans two 1200px periods; translating by one period loops seamlessly -->
+  <path fill="url(#w)" opacity="0.22" d="M0 60 C200 10 400 10 600 60 C800 110 1000 110 1200 60 C1400 10 1600 10 1800 60 C2000 110 2200 110 2400 60 L2400 130 L0 130Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="22s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#w)" opacity="0.38" d="M0 78 C200 38 400 38 600 78 C800 118 1000 118 1200 78 C1400 38 1600 38 1800 78 C2000 118 2200 118 2400 78 L2400 130 L0 130Z">
+    <animateTransform attributeName="transform" type="translate" from="-1200 0" to="0 0" dur="16s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#w)" opacity="0.75" d="M0 98 C200 68 400 68 600 98 C800 128 1000 128 1200 98 C1400 68 1600 68 1800 98 C2000 128 2200 128 2400 98 L2400 130 L0 130Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+</svg>
