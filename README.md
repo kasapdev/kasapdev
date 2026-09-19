@@ -49,9 +49,11 @@ My deepest specialty is **game-server platforms (MTA, FiveM)**: low-latency even
 
 <div align="center">
 
+<!--COUNTS:START-->
 | **45** | **23** | **15** | **12** |
 |:---:|:---:|:---:|:---:|
 | offline web tools | Rust & Go libraries | PHP & Java libraries | TypeScript tool repos |
+<!--COUNTS:END-->
 
 </div>
 

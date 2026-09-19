@@ -27,6 +27,11 @@ jobs:
           recent_count: '5'
           pinned_count: '6'
           language_count: '6'
+          count_groups: |
+            offline web tools = suffix:-pro
+            Rust & Go libraries = prefix:rs-, prefix:go-
+            PHP & Java libraries = prefix:php-, prefix:java-
+            TypeScript tool repos = prefix:kasap-+language:TypeScript
 
       - name: Commit changes
         run: |
