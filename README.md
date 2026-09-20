@@ -359,29 +359,29 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 <!--STATS:START-->
 | Metric | Value |
 | --- | --- |
-| Public repositories | 117 |
-| Total stars | 49 |
+| Public repositories | 115 |
+| Total stars | 45 |
 
 **Top languages (by bytes across public repos):**
 
 | Language | Share |
 | --- | --- |
-| JavaScript | 33.9% |
-| TypeScript | 26.0% |
-| CSS | 16.4% |
-| HTML | 8.6% |
-| Rust | 5.0% |
-| PHP | 4.4% |
+| JavaScript | 33.7% |
+| TypeScript | 25.8% |
+| CSS | 16.3% |
+| HTML | 8.5% |
+| Rust | 5.2% |
+| PHP | 4.5% |
 <!--STATS:END-->
 
 ### Recent Activity
 
 <!--RECENT:START-->
-- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-19 — GitHub profile README - kasapdev
-- **[kasap-profile-tools](https://github.com/kasapdev/kasap-profile-tools)** — last pushed 2026-09-19 — Profile visibility tools: a curated awesome-truckersmp-dev list and a GitHub Action that regenerates profile README stats/recent-activity/pinned-repo sections
-- **[kruftle](https://github.com/kasapdev/kruftle)** — last pushed 2026-09-12 — Reclaim disk space from build artifacts across every project on your machine. A developer-oriented desktop cleaner that runs each toolchain's own clean command.
-- **[rs-lsmtree](https://github.com/kasapdev/rs-lsmtree)** — last pushed 2026-09-08 — A simplified but correct LSM-tree key-value store with an on-disk SSTable format, tombstone deletes, and compaction. Zero-dependency Rust.
-- **[rs-trie](https://github.com/kasapdev/rs-trie)** — last pushed 2026-09-08 — A zero-dependency compressed radix trie (PATRICIA-style) for exact and prefix string lookup. Zero-dependency Rust.
+- **[java-retry](https://github.com/kasapdev/java-retry)** — last pushed 2026-09-20 — Fluent retry utility for Java with exponential backoff, jitter, and selective retrying by exception type. Zero-dependency, pure Java 17, no build tool required.
+- **[java-simple-cache](https://github.com/kasapdev/java-simple-cache)** — last pushed 2026-09-20 — Thread-safe generic LRU cache with per-entry TTL support for Java. Zero-dependency, pure Java 17, no build tool required.
+- **[php-micro-router](https://github.com/kasapdev/php-micro-router)** — last pushed 2026-09-20 — A tiny, zero-dependency PHP router with route groups, named parameters, and onion-style middleware. Zero-dependency PHP 8.1+ library.
+- **[php-cache-lite](https://github.com/kasapdev/php-cache-lite)** — last pushed 2026-09-20 — A lightweight, dependency-free PSR-16-shaped caching library for PHP with in-memory and file-based backends. Zero-dependency PHP 8.1+ library.
+- **[rs-hyperloglog](https://github.com/kasapdev/rs-hyperloglog)** — last pushed 2026-09-20 — A from-scratch HyperLogLog cardinality estimator, the algorithm behind Redis PFCOUNT. Zero-dependency Rust.
 <!--RECENT:END-->
 
 <br>
