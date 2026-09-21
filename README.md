@@ -377,11 +377,11 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 ### Recent Activity
 
 <!--RECENT:START-->
+- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-09-20 — GitHub profile README - kasapdev
 - **[java-retry](https://github.com/kasapdev/java-retry)** — last pushed 2026-09-20 — Fluent retry utility for Java with exponential backoff, jitter, and selective retrying by exception type. Zero-dependency, pure Java 17, no build tool required.
 - **[java-simple-cache](https://github.com/kasapdev/java-simple-cache)** — last pushed 2026-09-20 — Thread-safe generic LRU cache with per-entry TTL support for Java. Zero-dependency, pure Java 17, no build tool required.
 - **[php-micro-router](https://github.com/kasapdev/php-micro-router)** — last pushed 2026-09-20 — A tiny, zero-dependency PHP router with route groups, named parameters, and onion-style middleware. Zero-dependency PHP 8.1+ library.
 - **[php-cache-lite](https://github.com/kasapdev/php-cache-lite)** — last pushed 2026-09-20 — A lightweight, dependency-free PSR-16-shaped caching library for PHP with in-memory and file-based backends. Zero-dependency PHP 8.1+ library.
-- **[rs-hyperloglog](https://github.com/kasapdev/rs-hyperloglog)** — last pushed 2026-09-20 — A from-scratch HyperLogLog cardinality estimator, the algorithm behind Redis PFCOUNT. Zero-dependency Rust.
 <!--RECENT:END-->
 
 <br>
