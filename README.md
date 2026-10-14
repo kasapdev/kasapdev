@@ -366,18 +366,18 @@ _Regenerated automatically every day via [kasap-profile-tools](https://github.co
 
 | Language | Share |
 | --- | --- |
-| JavaScript | 33.7% |
-| TypeScript | 25.8% |
-| CSS | 16.3% |
-| HTML | 8.5% |
-| Rust | 5.2% |
-| PHP | 4.5% |
+| JavaScript | 34.0% |
+| TypeScript | 26.1% |
+| CSS | 16.5% |
+| HTML | 8.6% |
+| Rust | 5.3% |
+| PHP | 4.6% |
 <!--STATS:END-->
 
 ### Recent Activity
 
 <!--RECENT:START-->
-- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-10-12 — GitHub profile README - kasapdev
+- **[kasapdev](https://github.com/kasapdev/kasapdev)** — last pushed 2026-10-13 — GitHub profile README - kasapdev
 - **[java-retry](https://github.com/kasapdev/java-retry)** — last pushed 2026-09-20 — Fluent retry utility for Java with exponential backoff, jitter, and selective retrying by exception type. Zero-dependency, pure Java 17, no build tool required.
 - **[java-simple-cache](https://github.com/kasapdev/java-simple-cache)** — last pushed 2026-09-20 — Thread-safe generic LRU cache with per-entry TTL support for Java. Zero-dependency, pure Java 17, no build tool required.
 - **[php-micro-router](https://github.com/kasapdev/php-micro-router)** — last pushed 2026-09-20 — A tiny, zero-dependency PHP router with route groups, named parameters, and onion-style middleware. Zero-dependency PHP 8.1+ library.
